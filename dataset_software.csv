@@ -1,0 +1,301 @@
+ID_Licencia,Proveedor,Departamento,Usuarios_Comprados,Producto,Coste_Mensual_Licencia,Usuarios_Activos,Coste_Mensual_Total,Gasto_Desperdiciado
+SW-5000,AWS,Ventas,339,AWS Cloud Computing,200.0,315,67800.0,4800.0
+SW-5001,Microsoft,IT,124,Microsoft 365 E5,35.0,76,4340.0,1680.0
+SW-5002,SAP,Logistica,206,ERP Cloud,120.0,149,24720.0,6840.0
+SW-5003,SAP,IT,289,ERP Cloud,120.0,175,34680.0,13680.0
+SW-5004,Adobe,Ventas,304,Adobe Creative Cloud,60.0,258,18240.0,2760.0
+SW-5005,AWS,Logistica,257,AWS Cloud Computing,200.0,185,51400.0,14400.0
+SW-5006,AWS,IT,326,AWS Cloud Computing,200.0,196,65200.0,26000.0
+SW-5007,AWS,Marketing,249,AWS Cloud Computing,200.0,183,49800.0,13200.0
+SW-5008,Adobe,Ventas,280,Adobe Creative Cloud,60.0,234,16800.0,2760.0
+SW-5009,Atlassian,IT,286,Jira Software,15.0,258,4290.0,420.0
+SW-5010,SAP,Ventas,119,ERP Cloud,120.0,93,14280.0,3120.0
+SW-5011,Atlassian,Ventas,353,Jira Software,15.0,256,5295.0,1455.0
+SW-5012,Adobe,Marketing,59,Adobe Creative Cloud,60.0,36,3540.0,1380.0
+SW-5013,Adobe,RRHH,283,Adobe Creative Cloud,60.0,250,16980.0,1980.0
+SW-5014,SAP,Marketing,112,ERP Cloud,120.0,106,13440.0,720.0
+SW-5015,Microsoft,Logistica,396,Microsoft 365 E5,35.0,258,13860.0,4830.0
+SW-5016,Atlassian,RRHH,217,Jira Software,15.0,164,3255.0,795.0
+SW-5017,SAP,RRHH,416,ERP Cloud,120.0,362,49920.0,6480.0
+SW-5018,Microsoft,Logistica,261,Microsoft 365 E5,35.0,208,9135.0,1855.0
+SW-5019,Microsoft,Ventas,362,Microsoft 365 E5,35.0,233,12670.0,4515.0
+SW-5020,SAP,RRHH,103,ERP Cloud,120.0,96,12360.0,840.0
+SW-5021,SAP,Marketing,180,ERP Cloud,120.0,162,21600.0,2160.0
+SW-5022,Atlassian,Ventas,453,Jira Software,15.0,362,6795.0,1365.0
+SW-5023,Atlassian,Marketing,51,Jira Software,15.0,35,765.0,240.0
+SW-5024,Adobe,Ventas,401,Adobe Creative Cloud,60.0,262,24060.0,8340.0
+SW-5025,Microsoft,Marketing,351,Microsoft 365 E5,35.0,211,12285.0,4900.0
+SW-5026,SAP,IT,191,ERP Cloud,120.0,147,22920.0,5280.0
+SW-5027,AWS,Ventas,479,AWS Cloud Computing,200.0,369,95800.0,22000.0
+SW-5028,SAP,Ventas,254,ERP Cloud,120.0,153,30480.0,12120.0
+SW-5029,SAP,Logistica,320,ERP Cloud,120.0,294,38400.0,3120.0
+SW-5030,Atlassian,IT,171,Jira Software,15.0,122,2565.0,735.0
+SW-5031,AWS,IT,77,AWS Cloud Computing,200.0,71,15400.0,1200.0
+SW-5032,Adobe,Marketing,80,Adobe Creative Cloud,60.0,55,4800.0,1500.0
+SW-5033,Microsoft,IT,443,Microsoft 365 E5,35.0,289,15505.0,5390.0
+SW-5034,AWS,Logistica,485,AWS Cloud Computing,200.0,390,97000.0,19000.0
+SW-5035,Microsoft,Marketing,105,Microsoft 365 E5,35.0,73,3675.0,1120.0
+SW-5036,Microsoft,IT,254,Microsoft 365 E5,35.0,180,8890.0,2590.0
+SW-5037,SAP,RRHH,49,ERP Cloud,120.0,45,5880.0,480.0
+SW-5038,AWS,Marketing,242,AWS Cloud Computing,200.0,182,48400.0,12000.0
+SW-5039,Adobe,Marketing,135,Adobe Creative Cloud,60.0,123,8100.0,720.0
+SW-5040,Microsoft,Ventas,270,Microsoft 365 E5,35.0,186,9450.0,2940.0
+SW-5041,SAP,RRHH,189,ERP Cloud,120.0,166,22680.0,2760.0
+SW-5042,Adobe,Marketing,245,Adobe Creative Cloud,60.0,189,14700.0,3360.0
+SW-5043,Microsoft,IT,348,Microsoft 365 E5,35.0,228,12180.0,4200.0
+SW-5044,Microsoft,RRHH,398,Microsoft 365 E5,35.0,313,13930.0,2975.0
+SW-5045,SAP,IT,496,ERP Cloud,120.0,376,59520.0,14400.0
+SW-5046,Atlassian,Ventas,475,Jira Software,15.0,312,7125.0,2445.0
+SW-5047,Adobe,IT,65,Adobe Creative Cloud,60.0,45,3900.0,1200.0
+SW-5048,SAP,Ventas,201,ERP Cloud,120.0,133,24120.0,8160.0
+SW-5049,Atlassian,Marketing,400,Jira Software,15.0,371,6000.0,435.0
+SW-5050,Adobe,Marketing,470,Adobe Creative Cloud,60.0,392,28200.0,4680.0
+SW-5051,AWS,Ventas,461,AWS Cloud Computing,200.0,303,92200.0,31600.0
+SW-5052,Atlassian,Marketing,77,Jira Software,15.0,71,1155.0,90.0
+SW-5053,Adobe,Marketing,127,Adobe Creative Cloud,60.0,100,7620.0,1620.0
+SW-5054,SAP,Ventas,84,ERP Cloud,120.0,63,10080.0,2520.0
+SW-5055,Adobe,Logistica,143,Adobe Creative Cloud,60.0,97,8580.0,2760.0
+SW-5056,AWS,IT,357,AWS Cloud Computing,200.0,316,71400.0,8200.0
+SW-5057,AWS,IT,74,AWS Cloud Computing,200.0,45,14800.0,5800.0
+SW-5058,Atlassian,Logistica,86,Jira Software,15.0,53,1290.0,495.0
+SW-5059,AWS,Ventas,102,AWS Cloud Computing,200.0,83,20400.0,3800.0
+SW-5060,Atlassian,Marketing,70,Jira Software,15.0,60,1050.0,150.0
+SW-5061,SAP,RRHH,370,ERP Cloud,120.0,243,44400.0,15240.0
+SW-5062,SAP,Marketing,48,ERP Cloud,120.0,44,5760.0,480.0
+SW-5063,Adobe,IT,275,Adobe Creative Cloud,60.0,232,16500.0,2580.0
+SW-5064,Atlassian,Logistica,53,Jira Software,15.0,39,795.0,210.0
+SW-5065,Adobe,Ventas,132,Adobe Creative Cloud,60.0,81,7920.0,3060.0
+SW-5066,AWS,RRHH,469,AWS Cloud Computing,200.0,338,93800.0,26200.0
+SW-5067,Adobe,Marketing,356,Adobe Creative Cloud,60.0,220,21360.0,8160.0
+SW-5068,Atlassian,IT,481,Jira Software,15.0,323,7215.0,2370.0
+SW-5069,Adobe,Marketing,161,Adobe Creative Cloud,60.0,115,9660.0,2760.0
+SW-5070,Atlassian,Ventas,114,Jira Software,15.0,70,1710.0,660.0
+SW-5071,AWS,RRHH,365,AWS Cloud Computing,200.0,246,73000.0,23800.0
+SW-5072,Microsoft,Logistica,55,Microsoft 365 E5,35.0,48,1925.0,245.0
+SW-5073,SAP,IT,347,ERP Cloud,120.0,298,41640.0,5880.0
+SW-5074,AWS,Ventas,105,AWS Cloud Computing,200.0,64,21000.0,8200.0
+SW-5075,Microsoft,Logistica,153,Microsoft 365 E5,35.0,103,5355.0,1750.0
+SW-5076,Adobe,RRHH,365,Adobe Creative Cloud,60.0,228,21900.0,8220.0
+SW-5077,Adobe,IT,186,Adobe Creative Cloud,60.0,121,11160.0,3900.0
+SW-5078,Atlassian,Marketing,293,Jira Software,15.0,181,4395.0,1680.0
+SW-5079,Atlassian,Marketing,334,Jira Software,15.0,242,5010.0,1380.0
+SW-5080,SAP,Logistica,358,ERP Cloud,120.0,269,42960.0,10680.0
+SW-5081,AWS,Marketing,106,AWS Cloud Computing,200.0,94,21200.0,2400.0
+SW-5082,Microsoft,Ventas,255,Microsoft 365 E5,35.0,187,8925.0,2380.0
+SW-5083,Microsoft,Marketing,205,Microsoft 365 E5,35.0,193,7175.0,420.0
+SW-5084,Adobe,IT,319,Adobe Creative Cloud,60.0,295,19140.0,1440.0
+SW-5085,Adobe,Logistica,404,Adobe Creative Cloud,60.0,286,24240.0,7080.0
+SW-5086,AWS,Marketing,67,AWS Cloud Computing,200.0,43,13400.0,4800.0
+SW-5087,Adobe,Logistica,304,Adobe Creative Cloud,60.0,258,18240.0,2760.0
+SW-5088,Atlassian,IT,139,Jira Software,15.0,114,2085.0,375.0
+SW-5089,Microsoft,IT,313,Microsoft 365 E5,35.0,296,10955.0,595.0
+SW-5090,Adobe,Ventas,295,Adobe Creative Cloud,60.0,217,17700.0,4680.0
+SW-5091,Atlassian,Ventas,326,Jira Software,15.0,262,4890.0,960.0
+SW-5092,SAP,RRHH,357,ERP Cloud,120.0,231,42840.0,15120.0
+SW-5093,Adobe,Ventas,263,Adobe Creative Cloud,60.0,167,15780.0,5760.0
+SW-5094,Adobe,Marketing,146,Adobe Creative Cloud,60.0,113,8760.0,1980.0
+SW-5095,Adobe,IT,37,Adobe Creative Cloud,60.0,30,2220.0,420.0
+SW-5096,Atlassian,Marketing,87,Jira Software,15.0,68,1305.0,285.0
+SW-5097,AWS,Ventas,317,AWS Cloud Computing,200.0,227,63400.0,18000.0
+SW-5098,SAP,Marketing,482,ERP Cloud,120.0,329,57840.0,18360.0
+SW-5099,SAP,IT,39,ERP Cloud,120.0,33,4680.0,720.0
+SW-5100,Atlassian,Ventas,435,Jira Software,15.0,371,6525.0,960.0
+SW-5101,Microsoft,Ventas,284,Microsoft 365 E5,35.0,251,9940.0,1155.0
+SW-5102,AWS,Logistica,176,AWS Cloud Computing,200.0,118,35200.0,11600.0
+SW-5103,Microsoft,RRHH,163,Microsoft 365 E5,35.0,124,5705.0,1365.0
+SW-5104,AWS,IT,465,AWS Cloud Computing,200.0,351,93000.0,22800.0
+SW-5105,Atlassian,Ventas,471,Jira Software,15.0,354,7065.0,1755.0
+SW-5106,SAP,IT,346,ERP Cloud,120.0,236,41520.0,13200.0
+SW-5107,SAP,RRHH,301,ERP Cloud,120.0,253,36120.0,5760.0
+SW-5108,SAP,Marketing,475,ERP Cloud,120.0,319,57000.0,18720.0
+SW-5109,AWS,Ventas,347,AWS Cloud Computing,200.0,237,69400.0,22000.0
+SW-5110,Atlassian,Ventas,353,Jira Software,15.0,285,5295.0,1020.0
+SW-5111,AWS,RRHH,71,AWS Cloud Computing,200.0,50,14200.0,4200.0
+SW-5112,Microsoft,Logistica,374,Microsoft 365 E5,35.0,326,13090.0,1680.0
+SW-5113,Microsoft,Logistica,111,Microsoft 365 E5,35.0,95,3885.0,560.0
+SW-5114,Microsoft,IT,44,Microsoft 365 E5,35.0,26,1540.0,630.0
+SW-5115,Microsoft,IT,43,Microsoft 365 E5,35.0,38,1505.0,175.0
+SW-5116,Atlassian,Logistica,276,Jira Software,15.0,236,4140.0,600.0
+SW-5117,Microsoft,Logistica,279,Microsoft 365 E5,35.0,209,9765.0,2450.0
+SW-5118,Microsoft,Logistica,109,Microsoft 365 E5,35.0,86,3815.0,805.0
+SW-5119,Microsoft,Marketing,158,Microsoft 365 E5,35.0,117,5530.0,1435.0
+SW-5120,Atlassian,Logistica,392,Jira Software,15.0,244,5880.0,2220.0
+SW-5121,SAP,Ventas,41,ERP Cloud,120.0,38,4920.0,360.0
+SW-5122,Adobe,IT,294,Adobe Creative Cloud,60.0,250,17640.0,2640.0
+SW-5123,Adobe,Logistica,34,Adobe Creative Cloud,60.0,29,2040.0,300.0
+SW-5124,SAP,IT,448,ERP Cloud,120.0,316,53760.0,15840.0
+SW-5125,AWS,Ventas,321,AWS Cloud Computing,200.0,261,64200.0,12000.0
+SW-5126,AWS,RRHH,161,AWS Cloud Computing,200.0,102,32200.0,11800.0
+SW-5127,Atlassian,Marketing,144,Jira Software,15.0,112,2160.0,480.0
+SW-5128,Microsoft,IT,383,Microsoft 365 E5,35.0,334,13405.0,1715.0
+SW-5129,Adobe,Marketing,136,Adobe Creative Cloud,60.0,117,8160.0,1140.0
+SW-5130,Microsoft,RRHH,270,Microsoft 365 E5,35.0,253,9450.0,595.0
+SW-5131,Atlassian,Logistica,231,Jira Software,15.0,179,3465.0,780.0
+SW-5132,Microsoft,Marketing,358,Microsoft 365 E5,35.0,283,12530.0,2625.0
+SW-5133,SAP,Logistica,495,ERP Cloud,120.0,303,59400.0,23040.0
+SW-5134,AWS,IT,324,AWS Cloud Computing,200.0,235,64800.0,17800.0
+SW-5135,Microsoft,Marketing,117,Microsoft 365 E5,35.0,109,4095.0,280.0
+SW-5136,AWS,Logistica,166,AWS Cloud Computing,200.0,144,33200.0,4400.0
+SW-5137,SAP,Marketing,132,ERP Cloud,120.0,113,15840.0,2280.0
+SW-5138,Atlassian,IT,217,Jira Software,15.0,130,3255.0,1305.0
+SW-5139,Atlassian,IT,255,Jira Software,15.0,242,3825.0,195.0
+SW-5140,AWS,RRHH,48,AWS Cloud Computing,200.0,41,9600.0,1400.0
+SW-5141,Adobe,Marketing,145,Adobe Creative Cloud,60.0,109,8700.0,2160.0
+SW-5142,AWS,RRHH,166,AWS Cloud Computing,200.0,131,33200.0,7000.0
+SW-5143,Microsoft,IT,151,Microsoft 365 E5,35.0,128,5285.0,805.0
+SW-5144,Microsoft,RRHH,160,Microsoft 365 E5,35.0,148,5600.0,420.0
+SW-5145,Atlassian,Ventas,170,Jira Software,15.0,124,2550.0,690.0
+SW-5146,Microsoft,Logistica,333,Microsoft 365 E5,35.0,228,11655.0,3675.0
+SW-5147,SAP,IT,456,ERP Cloud,120.0,422,54720.0,4080.0
+SW-5148,AWS,IT,62,AWS Cloud Computing,200.0,52,12400.0,2000.0
+SW-5149,Atlassian,Marketing,191,Jira Software,15.0,173,2865.0,270.0
+SW-5150,SAP,Ventas,368,ERP Cloud,120.0,240,44160.0,15360.0
+SW-5151,Atlassian,IT,483,Jira Software,15.0,366,7245.0,1755.0
+SW-5152,AWS,Ventas,138,AWS Cloud Computing,200.0,118,27600.0,4000.0
+SW-5153,Atlassian,Marketing,212,Jira Software,15.0,201,3180.0,165.0
+SW-5154,Microsoft,IT,43,Microsoft 365 E5,35.0,26,1505.0,595.0
+SW-5155,Microsoft,Logistica,69,Microsoft 365 E5,35.0,52,2415.0,595.0
+SW-5156,SAP,IT,153,ERP Cloud,120.0,114,18360.0,4680.0
+SW-5157,AWS,Ventas,96,AWS Cloud Computing,200.0,86,19200.0,2000.0
+SW-5158,AWS,RRHH,283,AWS Cloud Computing,200.0,249,56600.0,6800.0
+SW-5159,SAP,Marketing,487,ERP Cloud,120.0,392,58440.0,11400.0
+SW-5160,SAP,Ventas,43,ERP Cloud,120.0,30,5160.0,1560.0
+SW-5161,Atlassian,RRHH,53,Jira Software,15.0,36,795.0,255.0
+SW-5162,Microsoft,Ventas,203,Microsoft 365 E5,35.0,135,7105.0,2380.0
+SW-5163,SAP,Logistica,249,ERP Cloud,120.0,169,29880.0,9600.0
+SW-5164,Adobe,IT,111,Adobe Creative Cloud,60.0,97,6660.0,840.0
+SW-5165,SAP,RRHH,458,ERP Cloud,120.0,421,54960.0,4440.0
+SW-5166,Atlassian,Marketing,83,Jira Software,15.0,78,1245.0,75.0
+SW-5167,AWS,Marketing,495,AWS Cloud Computing,200.0,394,99000.0,20200.0
+SW-5168,Adobe,RRHH,28,Adobe Creative Cloud,60.0,20,1680.0,480.0
+SW-5169,SAP,RRHH,244,ERP Cloud,120.0,214,29280.0,3600.0
+SW-5170,SAP,RRHH,454,ERP Cloud,120.0,355,54480.0,11880.0
+SW-5171,Atlassian,Logistica,180,Jira Software,15.0,137,2700.0,645.0
+SW-5172,Microsoft,Ventas,195,Microsoft 365 E5,35.0,171,6825.0,840.0
+SW-5173,Microsoft,RRHH,101,Microsoft 365 E5,35.0,90,3535.0,385.0
+SW-5174,SAP,RRHH,121,ERP Cloud,120.0,74,14520.0,5640.0
+SW-5175,AWS,Marketing,92,AWS Cloud Computing,200.0,72,18400.0,4000.0
+SW-5176,Microsoft,Marketing,424,Microsoft 365 E5,35.0,271,14840.0,5355.0
+SW-5177,AWS,Ventas,369,AWS Cloud Computing,200.0,330,73800.0,7800.0
+SW-5178,SAP,RRHH,57,ERP Cloud,120.0,47,6840.0,1200.0
+SW-5179,SAP,IT,132,ERP Cloud,120.0,82,15840.0,6000.0
+SW-5180,Microsoft,Marketing,267,Microsoft 365 E5,35.0,166,9345.0,3535.0
+SW-5181,Adobe,Logistica,343,Adobe Creative Cloud,60.0,292,20580.0,3060.0
+SW-5182,Atlassian,RRHH,384,Jira Software,15.0,309,5760.0,1125.0
+SW-5183,Atlassian,IT,112,Jira Software,15.0,98,1680.0,210.0
+SW-5184,Adobe,Logistica,70,Adobe Creative Cloud,60.0,46,4200.0,1440.0
+SW-5185,Atlassian,IT,27,Jira Software,15.0,18,405.0,135.0
+SW-5186,Adobe,Logistica,288,Adobe Creative Cloud,60.0,257,17280.0,1860.0
+SW-5187,Adobe,RRHH,237,Adobe Creative Cloud,60.0,156,14220.0,4860.0
+SW-5188,SAP,Logistica,208,ERP Cloud,120.0,191,24960.0,2040.0
+SW-5189,Adobe,IT,319,Adobe Creative Cloud,60.0,254,19140.0,3900.0
+SW-5190,Adobe,Logistica,406,Adobe Creative Cloud,60.0,302,24360.0,6240.0
+SW-5191,Atlassian,RRHH,354,Jira Software,15.0,236,5310.0,1770.0
+SW-5192,AWS,RRHH,414,AWS Cloud Computing,200.0,276,82800.0,27600.0
+SW-5193,AWS,Ventas,174,AWS Cloud Computing,200.0,156,34800.0,3600.0
+SW-5194,Microsoft,Ventas,447,Microsoft 365 E5,35.0,392,15645.0,1925.0
+SW-5195,Adobe,Marketing,62,Adobe Creative Cloud,60.0,37,3720.0,1500.0
+SW-5196,SAP,RRHH,31,ERP Cloud,120.0,20,3720.0,1320.0
+SW-5197,Adobe,Logistica,71,Adobe Creative Cloud,60.0,67,4260.0,240.0
+SW-5198,Atlassian,Marketing,82,Jira Software,15.0,69,1230.0,195.0
+SW-5199,AWS,Ventas,173,AWS Cloud Computing,200.0,115,34600.0,11600.0
+SW-5200,SAP,RRHH,210,ERP Cloud,120.0,143,25200.0,8040.0
+SW-5201,SAP,Logistica,422,ERP Cloud,120.0,397,50640.0,3000.0
+SW-5202,Microsoft,RRHH,39,Microsoft 365 E5,35.0,24,1365.0,525.0
+SW-5203,Adobe,Ventas,176,Adobe Creative Cloud,60.0,119,10560.0,3420.0
+SW-5204,Atlassian,Logistica,81,Jira Software,15.0,76,1215.0,75.0
+SW-5205,Adobe,Marketing,313,Adobe Creative Cloud,60.0,244,18780.0,4140.0
+SW-5206,SAP,IT,498,ERP Cloud,120.0,387,59760.0,13320.0
+SW-5207,Atlassian,Marketing,249,Jira Software,15.0,166,3735.0,1245.0
+SW-5208,AWS,RRHH,288,AWS Cloud Computing,200.0,273,57600.0,3000.0
+SW-5209,SAP,IT,373,ERP Cloud,120.0,348,44760.0,3000.0
+SW-5210,Atlassian,IT,255,Jira Software,15.0,191,3825.0,960.0
+SW-5211,Atlassian,IT,215,Jira Software,15.0,139,3225.0,1140.0
+SW-5212,Microsoft,Marketing,410,Microsoft 365 E5,35.0,313,14350.0,3395.0
+SW-5213,Adobe,Ventas,437,Adobe Creative Cloud,60.0,276,26220.0,9660.0
+SW-5214,Atlassian,Logistica,79,Jira Software,15.0,68,1185.0,165.0
+SW-5215,SAP,IT,152,ERP Cloud,120.0,121,18240.0,3720.0
+SW-5216,AWS,Marketing,450,AWS Cloud Computing,200.0,422,90000.0,5600.0
+SW-5217,Atlassian,Marketing,217,Jira Software,15.0,201,3255.0,240.0
+SW-5218,Adobe,Logistica,499,Adobe Creative Cloud,60.0,395,29940.0,6240.0
+SW-5219,Microsoft,Ventas,424,Microsoft 365 E5,35.0,316,14840.0,3780.0
+SW-5220,AWS,IT,231,AWS Cloud Computing,200.0,201,46200.0,6000.0
+SW-5221,AWS,Logistica,55,AWS Cloud Computing,200.0,35,11000.0,4000.0
+SW-5222,Microsoft,RRHH,54,Microsoft 365 E5,35.0,38,1890.0,560.0
+SW-5223,AWS,RRHH,45,AWS Cloud Computing,200.0,30,9000.0,3000.0
+SW-5224,AWS,Ventas,398,AWS Cloud Computing,200.0,249,79600.0,29800.0
+SW-5225,Microsoft,IT,499,Microsoft 365 E5,35.0,401,17465.0,3430.0
+SW-5226,AWS,Ventas,104,AWS Cloud Computing,200.0,69,20800.0,7000.0
+SW-5227,Atlassian,Ventas,266,Jira Software,15.0,224,3990.0,630.0
+SW-5228,Adobe,RRHH,113,Adobe Creative Cloud,60.0,101,6780.0,720.0
+SW-5229,Atlassian,Ventas,67,Jira Software,15.0,62,1005.0,75.0
+SW-5230,AWS,Ventas,391,AWS Cloud Computing,200.0,312,78200.0,15800.0
+SW-5231,AWS,Logistica,495,AWS Cloud Computing,200.0,353,99000.0,28400.0
+SW-5232,Atlassian,Ventas,269,Jira Software,15.0,204,4035.0,975.0
+SW-5233,AWS,Marketing,391,AWS Cloud Computing,200.0,309,78200.0,16400.0
+SW-5234,Adobe,RRHH,36,Adobe Creative Cloud,60.0,23,2160.0,780.0
+SW-5235,Microsoft,Logistica,344,Microsoft 365 E5,35.0,264,12040.0,2800.0
+SW-5236,Adobe,Ventas,186,Adobe Creative Cloud,60.0,133,11160.0,3180.0
+SW-5237,Adobe,Logistica,52,Adobe Creative Cloud,60.0,41,3120.0,660.0
+SW-5238,Microsoft,IT,414,Microsoft 365 E5,35.0,266,14490.0,5180.0
+SW-5239,AWS,Ventas,346,AWS Cloud Computing,200.0,220,69200.0,25200.0
+SW-5240,SAP,RRHH,423,ERP Cloud,120.0,374,50760.0,5880.0
+SW-5241,Microsoft,Logistica,285,Microsoft 365 E5,35.0,175,9975.0,3850.0
+SW-5242,Atlassian,Ventas,91,Jira Software,15.0,80,1365.0,165.0
+SW-5243,Atlassian,Logistica,170,Jira Software,15.0,109,2550.0,915.0
+SW-5244,Microsoft,Marketing,441,Microsoft 365 E5,35.0,293,15435.0,5180.0
+SW-5245,Adobe,Ventas,117,Adobe Creative Cloud,60.0,106,7020.0,660.0
+SW-5246,Microsoft,Ventas,461,Microsoft 365 E5,35.0,376,16135.0,2975.0
+SW-5247,Atlassian,RRHH,100,Jira Software,15.0,75,1500.0,375.0
+SW-5248,AWS,RRHH,406,AWS Cloud Computing,200.0,375,81200.0,6200.0
+SW-5249,SAP,Ventas,487,ERP Cloud,120.0,401,58440.0,10320.0
+SW-5250,Microsoft,RRHH,476,Microsoft 365 E5,35.0,342,16660.0,4690.0
+SW-5251,AWS,IT,195,AWS Cloud Computing,200.0,167,39000.0,5600.0
+SW-5252,SAP,Ventas,234,ERP Cloud,120.0,199,28080.0,4200.0
+SW-5253,SAP,Ventas,151,ERP Cloud,120.0,97,18120.0,6480.0
+SW-5254,SAP,IT,314,ERP Cloud,120.0,225,37680.0,10680.0
+SW-5255,Atlassian,RRHH,59,Jira Software,15.0,46,885.0,195.0
+SW-5256,Microsoft,Marketing,182,Microsoft 365 E5,35.0,126,6370.0,1960.0
+SW-5257,SAP,RRHH,312,ERP Cloud,120.0,274,37440.0,4560.0
+SW-5258,SAP,Ventas,347,ERP Cloud,120.0,285,41640.0,7440.0
+SW-5259,Atlassian,Ventas,474,Jira Software,15.0,315,7110.0,2385.0
+SW-5260,SAP,Marketing,389,ERP Cloud,120.0,320,46680.0,8280.0
+SW-5261,Adobe,Logistica,407,Adobe Creative Cloud,60.0,301,24420.0,6360.0
+SW-5262,Atlassian,IT,408,Jira Software,15.0,341,6120.0,1005.0
+SW-5263,Microsoft,Marketing,274,Microsoft 365 E5,35.0,192,9590.0,2870.0
+SW-5264,Microsoft,Marketing,278,Microsoft 365 E5,35.0,261,9730.0,595.0
+SW-5265,SAP,Logistica,466,ERP Cloud,120.0,299,55920.0,20040.0
+SW-5266,Microsoft,Marketing,121,Microsoft 365 E5,35.0,77,4235.0,1540.0
+SW-5267,Atlassian,RRHH,160,Jira Software,15.0,107,2400.0,795.0
+SW-5268,SAP,Marketing,174,ERP Cloud,120.0,115,20880.0,7080.0
+SW-5269,AWS,Ventas,266,AWS Cloud Computing,200.0,187,53200.0,15800.0
+SW-5270,Atlassian,Ventas,71,Jira Software,15.0,58,1065.0,195.0
+SW-5271,SAP,Logistica,465,ERP Cloud,120.0,432,55800.0,3960.0
+SW-5272,AWS,Marketing,24,AWS Cloud Computing,200.0,17,4800.0,1400.0
+SW-5273,Atlassian,Logistica,424,Jira Software,15.0,328,6360.0,1440.0
+SW-5274,Atlassian,Logistica,35,Jira Software,15.0,31,525.0,60.0
+SW-5275,AWS,Ventas,81,AWS Cloud Computing,200.0,49,16200.0,6400.0
+SW-5276,AWS,Marketing,350,AWS Cloud Computing,200.0,295,70000.0,11000.0
+SW-5277,AWS,Marketing,355,AWS Cloud Computing,200.0,225,71000.0,26000.0
+SW-5278,SAP,Logistica,261,ERP Cloud,120.0,171,31320.0,10800.0
+SW-5279,Atlassian,Ventas,484,Jira Software,15.0,308,7260.0,2640.0
+SW-5280,AWS,Logistica,152,AWS Cloud Computing,200.0,135,30400.0,3400.0
+SW-5281,Atlassian,Ventas,61,Jira Software,15.0,53,915.0,120.0
+SW-5282,Microsoft,IT,123,Microsoft 365 E5,35.0,113,4305.0,350.0
+SW-5283,SAP,Ventas,152,ERP Cloud,120.0,93,18240.0,7080.0
+SW-5284,Microsoft,Marketing,325,Microsoft 365 E5,35.0,240,11375.0,2975.0
+SW-5285,Microsoft,Logistica,121,Microsoft 365 E5,35.0,92,4235.0,1015.0
+SW-5286,AWS,IT,471,AWS Cloud Computing,200.0,306,94200.0,33000.0
+SW-5287,AWS,Marketing,25,AWS Cloud Computing,200.0,19,5000.0,1200.0
+SW-5288,Adobe,Marketing,124,Adobe Creative Cloud,60.0,78,7440.0,2760.0
+SW-5289,Atlassian,Marketing,195,Jira Software,15.0,156,2925.0,585.0
+SW-5290,Atlassian,Logistica,109,Jira Software,15.0,95,1635.0,210.0
+SW-5291,Adobe,IT,381,Adobe Creative Cloud,60.0,275,22860.0,6360.0
+SW-5292,Microsoft,Ventas,253,Microsoft 365 E5,35.0,209,8855.0,1540.0
+SW-5293,SAP,Logistica,391,ERP Cloud,120.0,346,46920.0,5400.0
+SW-5294,Adobe,Marketing,413,Adobe Creative Cloud,60.0,290,24780.0,7380.0
+SW-5295,AWS,Ventas,115,AWS Cloud Computing,200.0,95,23000.0,4000.0
+SW-5296,Microsoft,Marketing,424,Microsoft 365 E5,35.0,267,14840.0,5495.0
+SW-5297,AWS,RRHH,169,AWS Cloud Computing,200.0,104,33800.0,13000.0
+SW-5298,AWS,Ventas,33,AWS Cloud Computing,200.0,20,6600.0,2600.0
+SW-5299,Adobe,Logistica,232,Adobe Creative Cloud,60.0,181,13920.0,3060.0
